@@ -28,7 +28,7 @@ Ajust the:
 
 Drop shadow
 
-mae a selection of your object
+make a selection of your object
 CTRL + J to duplicate
 CTRL + T to open transform tool
 While holding the CTRL click and drag the center to reposition
@@ -49,4 +49,9 @@ Blur the shadow
         Click on refine edge
         Adjust the feather
     Go back to Filter > Blur > Gaussian blur
+
+Remove white or black background 
+    Double click on the right side of the image
+    Blending options
+    Drag the slider in the this layer to the left to remove the white
 
